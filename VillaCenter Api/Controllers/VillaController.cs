@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using VillaCenter_Api.Data;
 using VillaCenter_Api.Models;
 using VillaCenter_Api.Models.DTO;
@@ -19,12 +20,13 @@ namespace VillaCenter_Api.Controllers
             _db = db;
         }
 
+        // Metodo Asyncrono 
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public ActionResult <IEnumerable<VillaDto>> GetVillas() {
+        public async Task<ActionResult <IEnumerable<VillaDto>>> GetVillas() {
 
             _logger.LogInformation("Obtener las Villas");
-            return Ok(_db.Villas.ToList());
+            return Ok(await _db.Villas.ToListAsync());
         }
 
         [HttpGet("id:int",Name = "GetVilla")]
@@ -56,7 +58,7 @@ namespace VillaCenter_Api.Controllers
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public ActionResult<VillaDto> NewVilla([FromBody] VillaDto villaDto) {
+        public ActionResult<VillaDto> NewVilla([FromBody] VillaCreateDto villaDto) {
 
             if (!ModelState.IsValid) {
                 return BadRequest(ModelState);
@@ -70,30 +72,25 @@ namespace VillaCenter_Api.Controllers
 
             if (villaDto != null)
             {
-                if (villaDto.Id > 0)
+
+                Villa newVilla = new()
                 {
-                    return StatusCode(StatusCodes.Status500InternalServerError);
-                }
-                else {
+                    Nombre = villaDto.Nombre,
+                    Detalle = villaDto.Detalle,
+                    ImagenUrl = villaDto.ImagenUrl,
+                    Ocupantes = villaDto.Ocupantes,
+                    Tarifa = villaDto.Tarifa,
+                    MetrosCuadrados = villaDto.MetrosCuadrados,
+                    Amenidad = villaDto.Amenidad,
+                };
 
-                    Villa newVilla = new()
-                    {
-                        Nombre = villaDto.Nombre,
-                        Detalle = villaDto.Detalle,
-                        ImagenUrl = villaDto.ImagenUrl,
-                        Ocupantes = villaDto.Ocupantes,
-                        Tarifa = villaDto.Tarifa,
-                        MetrosCuadrados  = villaDto.MetrosCuadrados,
-                        Amenidad = villaDto.Amenidad,
-                    };
+                _db.Villas.Add(newVilla);
+                _db.SaveChanges();
 
-                    _db.Villas.Add(newVilla);
-                    _db.SaveChanges();
+                return CreatedAtRoute("GetVilla", new { id = newVilla.Id, newVilla });
 
-                    return CreatedAtRoute("GetVilla", new { id = villaDto.Id,villaDto});
-                
-                }
-            }else {
+            }
+            else {
                 return BadRequest(villaDto);
             }
         }
@@ -128,7 +125,7 @@ namespace VillaCenter_Api.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public IActionResult UpdateVilla(int _id, [FromBody] VillaDto villaDto) {
+        public IActionResult UpdateVilla(int _id, [FromBody] VillaUpdateDto villaDto) {
 
             if (villaDto != null || _id == villaDto.Id)
             {
@@ -156,46 +153,46 @@ namespace VillaCenter_Api.Controllers
         }
 
 
-        [HttpPatch("_id:int")]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status204NoContent)]
-        [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public IActionResult UpdateParcialVilla(int _id, JsonPatchDocument<VillaDto> patchDto)
-        {
+        //[HttpPatch("_id:int")]
+        //[ProducesResponseType(StatusCodes.Status400BadRequest)]
+        //[ProducesResponseType(StatusCodes.Status204NoContent)]
+        //[ProducesResponseType(StatusCodes.Status404NotFound)]
+        //public IActionResult UpdateParcialVilla(int _id, JsonPatchDocument<VillaUpdateDto> patchDto)
+        //{
 
-            if (patchDto != null || _id != 0)
-            {
-                var updateVilla = _db.Villas.FirstOrDefault(i => i.Id == _id);
+        //    if (patchDto != null || _id != 0)
+        //    {
+        //        var updateVilla = _db.Villas.FirstOrDefault(i => i.Id == _id);
 
-                VillaDto villaDto = new() {
-                    Id = updateVilla.Id,
-                    Nombre = updateVilla.Nombre,
-                    Detalle = updateVilla.Detalle,
-                    ImagenUrl = updateVilla.ImagenUrl,
-                    Ocupantes = updateVilla.Ocupantes,
-                    Tarifa = updateVilla.Tarifa,
-                    MetrosCuadrados = updateVilla.MetrosCuadrados,
-                    Amenidad = updateVilla.Amenidad,
-                };
+        //        VillaDto villaDto = new() {
+        //            Id = updateVilla.Id,
+        //            Nombre = updateVilla.Nombre,
+        //            Detalle = updateVilla.Detalle,
+        //            ImagenUrl = updateVilla.ImagenUrl,
+        //            Ocupantes = updateVilla.Ocupantes,
+        //            Tarifa = updateVilla.Tarifa,
+        //            MetrosCuadrados = updateVilla.MetrosCuadrados,
+        //            Amenidad = updateVilla.Amenidad,
+        //        };
 
-                if (updateVilla != null) return BadRequest();   
+        //        if (updateVilla != null) return BadRequest();   
 
-                patchDto.ApplyTo(villaDto, ModelState);
+        //        patchDto.ApplyTo(villaDto, ModelState);
 
-                if (!ModelState.IsValid)
-                {
-                    return BadRequest(ModelState);
+        //        if (!ModelState.IsValid)
+        //        {
+        //            return BadRequest(ModelState);
 
-                }
+        //        }
 
-                return NoContent();
+        //        return NoContent();
 
-            }
-            else
-            {
-                return BadRequest();
-            }
-        }
+        //    }
+        //    else
+        //    {
+        //        return BadRequest();
+        //    }
+        //}
 
     }
 }
