@@ -1,0 +1,162 @@
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.csproj.AssemblyReference.cache
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.AssemblyInfoInputs.cache
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.AssemblyInfo.cs
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.csproj.CoreCompileInputs.cache
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\appsettings.json
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.exe
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.deps.json
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.runtimeconfig.json
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.pdb
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\staticwebassets\msbuild.VillaCenter Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\staticwebassets\msbuild.build.VillaCenter Api.props
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VillaCenter Api.props
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VillaCenter Api.props
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\scopedcss\bundle\VillaCenter Api.styles.css
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.csproj.CopyComplete
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\refint\VillaCenter Api.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.pdb
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.genruntimeconfig.cache
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\obj\Debug\net7.0\ref\VillaCenter Api.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Humanizer.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\.Net_6\VillaCenter\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.csproj.AssemblyReference.cache
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.AssemblyInfoInputs.cache
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.AssemblyInfo.cs
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.csproj.CoreCompileInputs.cache
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\refint\VillaCenter Api.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.pdb
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\appsettings.json
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.exe
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.deps.json
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.runtimeconfig.json
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\VillaCenter Api.pdb
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Humanizer.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\staticwebassets\msbuild.VillaCenter Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\staticwebassets\msbuild.build.VillaCenter Api.props
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VillaCenter Api.props
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VillaCenter Api.props
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\scopedcss\bundle\VillaCenter Api.styles.css
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.csproj.CopyComplete
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\VillaCenter Api.genruntimeconfig.cache
+C:\Proyectos\.Net_6\VillaCenter\Seccion_5_Automapping\VillaCenter Api\obj\Debug\net7.0\ref\VillaCenter Api.dll
